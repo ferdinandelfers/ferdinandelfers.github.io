@@ -25,3 +25,9 @@ redirect_from:
 * Ad-hoc reviewer for Review of Accounting Studies, European Accounting Review, Accounting and Business Research, Journal of International Accounting, Auditing and Taxation, Journal of Business Economics, FARS mid-year meetings
 * Organization of the [Erasmus Banking Hub](https://www.erim.eur.nl/banking/)
 
+## Awards & Honors
+
+* Ernst & Young Award 2017 for the best doctoral thesis in accounting and taxation at the University of Mannheim
+* Karin Islinger Award 2017 for the best doctoral thesis in business administration at the University of Mannheim
+* EFMA GARP Risk Management Research Award 2015 (for the paper _A Tale of Two Supervisors: Compliance with Risk Disclosure Regulation in the Banking Sector_ (w. J. Bischof, H. Daske & L. Hail)
+
