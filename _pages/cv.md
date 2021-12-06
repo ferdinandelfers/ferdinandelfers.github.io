@@ -21,7 +21,7 @@ redirect_from:
 
 ## Academic Service
 
-* Member of the Scientific Committe of the European Accoutning Association
+* Member of the Scientific Committe of the European Accounting Association
 * Ad-hoc reviewer for Review of Accounting Studies, European Accounting Review, Accounting and Business Research, Journal of International Accounting, Auditing and Taxation, Journal of Business Economics, FARS mid-year meetings
 * Organization of the [Erasmus Banking Hub](https://www.erim.eur.nl/banking/)
 
