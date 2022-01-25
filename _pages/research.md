@@ -21,13 +21,13 @@ _Accounting and Business Research (forthcoming)_
 
 Our online database of the private firm accounting literature is available [here](https://accresearch.shinyapps.io/private_firm_lit/).
 
-## Working Papers
-
 ### Public Peers, Accounting Comparability, and the Value Relevance of Private Firms' Financial Reporting
 
 (w. Thomas Bourveau, Jason V. Chen & Jochen Pierk)
 
-_Under 2nd round review at Review of Accounting Studies_
+_Review of Accounting Studies (forthcoming)_
+
+## Working Papers
 
 ### "What you don't know won't hurt you": Market Monitoring and Supervisors' Preference for Private Information
 
