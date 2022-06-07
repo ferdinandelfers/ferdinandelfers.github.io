@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-### "What you don't know won't hurt you": Market Monitoring and Supervisors' Preference for Private Information
+### [What you don't know won't hurt you": Market Monitoring and Supervisors' Preference for Private Information](https://www.sciencedirect.com/science/article/abs/pii/S0378426622001686)
 
 (w. Jeroen Koenraadt)
 
