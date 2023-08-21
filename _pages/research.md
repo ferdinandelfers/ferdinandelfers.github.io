@@ -7,12 +7,6 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-### [What you don't know won't hurt you": Market Monitoring and Supervisors' Preference for Private Information](https://www.sciencedirect.com/science/article/abs/pii/S0378426622001686)
-
-(w. Jeroen Koenraadt)
-
-_Journal of Banking and Finance (forthcoming)_
-
 ### [Public Peers, Accounting Comparability, and the Value Relevance of Private Firms' Financial Reporting](https://link.springer.com/article/10.1007/s11142-022-09707-y)
 
 (w. Thomas Bourveau, Jason V. Chen & Jochen Pierk)
@@ -23,9 +17,15 @@ _Review of Accounting Studies (forthcoming)_
 
 (w. Christof Beuselinck, Joachim Gassen & Jochen Pierk)
 
-_Accounting and Business Research (forthcoming)_
+_Accounting and Business Research, 2023, 53(1), 38-82_
 
 Our online database of the private firm accounting literature is available [here](https://accresearch.shinyapps.io/private_firm_lit/).
+
+### [What you don't know won't hurt you": Market Monitoring and Supervisors' Preference for Private Information](https://www.sciencedirect.com/science/article/abs/pii/S0378426622001686)
+
+(w. Jeroen Koenraadt)
+
+_Journal of Banking and Finance, 2022, 143, 106572_
 
 ### [A Tale of Two Supervisors: Compliance with Risk Disclosure Regulation in the Banking Sector](https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12715)
 
@@ -35,23 +35,23 @@ _Contemporary Accounting Research, 2022, 39(1), 498-536_
 
 ## Working Papers
 
-### Discretionary Loan Loss Provisioning and Bank Transparency: The Role of Supervisory Preferences
+###   Can Supervisors Enforce Transparent Accounting When the Rules Leave Room for Management Discretion?
 
 (w. Nicolas Rudolf & Jannis Bischof)
 
 
-### Historical Cost vs. Fair Value Accounting: Impairment Choice, Trading Incentives, and Fire Sales
+### TruPS, I Did It Again: The Impact of Fair Value  Circuit Breakers on Banks' Impairmentand Trading Decisions
 
 (w. Zoltan Novotny-Farkas & Igor Goncharov)
 
 
 ## Work in Progress
 
-### The Relevance of Subsidiaries' Financial Reports
+### The Usefulness of Subsidiary Disclosures
 
-(w. Jochen Pierk & Dimitris Paschalidis)
+(w. Jochen Pierk)
 
-### Private Equity Firms as Information Intermediaries 
+### Are Private Equity Returns Driven by a Lack of Private Firm Transparency? 
 
 (w. Jochen Pierk)
 
