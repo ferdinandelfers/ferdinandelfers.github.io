@@ -53,7 +53,7 @@ _Contemporary Accounting Research, 2022, 39(1), 498-536_
 
 ### Are Private Equity Returns Driven by a Lack of Private Firm Transparency? 
 
-(w. Jochen Pierk)
+(w. Jochen Pierk & Thomas Bourveau)
 
 
 
