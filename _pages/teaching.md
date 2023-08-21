@@ -16,4 +16,4 @@ author_profile: true
 *  Applied Methods and Tools in Empirical Accounting Research (PhD level)
 *  Accounting for Financial Instruments & Financial Institutions (MSc level)
 *  Seminar Accounting Research (MSc level)
-*  Cost Accounting (undergraduate level)
+*  Management Accounting (undergraduate level)
