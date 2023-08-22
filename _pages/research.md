@@ -21,7 +21,7 @@ _Accounting and Business Research, 2023, 53(1), 38-82_
 
 Our online database of the private firm accounting literature is available [here](https://accresearch.shinyapps.io/private_firm_lit/).
 
-### [What you don't know won't hurt you": Market Monitoring and Supervisors' Preference for Private Information](https://www.sciencedirect.com/science/article/abs/pii/S0378426622001686)
+### [What you don't know won't hurt you": Market Monitoring and Bank Supervisors' Preference for Private Information](https://www.sciencedirect.com/science/article/abs/pii/S0378426622001686)
 
 (w. Jeroen Koenraadt)
 
