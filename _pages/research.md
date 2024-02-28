@@ -40,7 +40,7 @@ _Contemporary Accounting Research, 2022, 39(1), 498-536_
 (w. Nicolas Rudolf & Jannis Bischof)
 
 
-### TruPS, I Did It Again: The Impact of Fair Value  Circuit Breakers on Banks' Impairmentand Trading Decisions
+### TruPS, I Did It Again: The Impact of Fair Value  Circuit Breakers on Banks' Impairment and Trading Decisions
 
 (w. Zoltan Novotny-Farkas & Igor Goncharov)
 
