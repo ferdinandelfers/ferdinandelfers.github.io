@@ -11,7 +11,7 @@ author_profile: true
 
 (w. Thomas Bourveau, Jason V. Chen & Jochen Pierk)
 
-_Review of Accounting Studies (forthcoming)_
+_Review of Accounting Studies, 2023, 28, 2642-2676_
 
 ### [Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives](https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670)
 
@@ -21,7 +21,7 @@ _Accounting and Business Research, 2023, 53(1), 38-82_
 
 Our online database of the private firm accounting literature is available [here](https://accresearch.shinyapps.io/private_firm_lit/).
 
-### [What you don't know won't hurt you": Market Monitoring and Bank Supervisors' Preference for Private Information](https://www.sciencedirect.com/science/article/abs/pii/S0378426622001686)
+### ["What you don't know won't hurt you": Market Monitoring and Bank Supervisors' Preference for Private Information](https://www.sciencedirect.com/science/article/abs/pii/S0378426622001686)
 
 (w. Jeroen Koenraadt)
 
