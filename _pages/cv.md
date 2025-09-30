@@ -16,7 +16,8 @@ redirect_from:
 
 ## Academic Positions
 
-* since 2016: Assistant Professor, Erasmus School of Economics, Erasmus University Rotterdam
+* Since 2024: Associate Professor, Erasmus School of Economics, Erasmus University Rotterdam
+* 2016-2024: Assistant Professor, Erasmus School of Economics, Erasmus University Rotterdam
 * 2010-2016: Research Assistant, Chair of Accounting & Capital Markets, University of Mannheim
 
 ## Academic Service
